@@ -1,0 +1,25 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "A simple login form using node js and mysql",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "dom": "^0.0.3",
+    "express-xml-bodyparser": "^0.3.0",
+    "fast-xml-parser": "^4.0.9",
+    "libxmljs": "^0.19.10",
+    "lodash": "^4.17.10",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "xml": "^1.0.1",
+    "xml2js": "^0.4.23",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.32"
+  }
+}
